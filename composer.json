@@ -1,5 +1,5 @@
 {
-	"name": "lokielse/omnipay-alipay",
+	"name": "starlight36/omnipay-alipay",
 	"type": "library",
 	"description": "Alipay gateway for Omnipay payment processing library",
 	"keywords": [
@@ -11,12 +11,16 @@
 		"payment",
 		"purchase"
 	],
-	"homepage": "https://github.com/lokielse/omnipay-alipay",
+	"homepage": "https://github.com/starlight36/omnipay-alipay",
 	"license": "MIT",
 	"authors": [
 		{
 			"name": "Loki Else",
 			"email": "lokielse@gmail.com"
+		},
+		{
+		  	"name": "Max Liu",
+		  	"email": "me@starlight36.com"
 		}
 	],
 	"autoload": {
